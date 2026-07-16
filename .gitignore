@@ -1,34 +1,19 @@
-# Gradle files
-.gradle/
-build/
+# macOS
+.DS_Store
 
-# Local configuration file (sdk path, etc)
-local.properties
+# Windows
+Thumbs.db
 
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
+# IDE / Editor files
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+.vscode/
+*.swp
+*.swo
 
-# Keystore files
-*.jks
-*.keystore
+# Log and temp files
+*.log
+*.tmp
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+# Python cache (in case you add scripts later)
+__pycache__/
+*.pyc
