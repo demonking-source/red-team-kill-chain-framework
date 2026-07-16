@@ -1,3 +1,14 @@
+## Why This Framework?
+
+Most kill chain models are either too linear or too complex. This framework is designed to be:
+
+- **Multi-domain**: It connects different areas (Recon, C2, Binary work, Web attacks, OPSEC) instead of treating them separately.
+- **Role-friendly**: It clearly shows how Red Team Operators, Exploit Developers, and Web AppSec specialists can work together.
+- **Practical**: Focused on real-world chaining with strong emphasis on Operational Security.
+- **Customizable**: Easy for both individuals and teams to adapt.
+
+This makes it useful not just for solo operators, but also for teams that want to coordinate different skill sets effectively.
+
 # Red Team Kill Chain Framework
 
 A high-level, multi-domain adversary emulation framework designed to help red teams chain capabilities across different roles with strong operational security.
