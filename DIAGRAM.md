@@ -2,7 +2,7 @@
 
 This diagram shows the complete 8-phase framework and how different roles contribute.
 
-![Red Team Kill Chain Diagram](assets/kill-chain.jpeg)
+![Red Team Kill Chain Diagram](kill-chain.jpeg)
 
 ## Role Responsibilities
 
