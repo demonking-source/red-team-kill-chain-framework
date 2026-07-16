@@ -42,6 +42,14 @@ The goal is to create a practical methodology that both individual operators and
 - `MAPPING_TO_MITRE.md` — Alignment with MITRE ATT&CK
 - `OPSEC_GUIDELINES.md` — Operational security best practices
 
+## Visual Overview
+
+For the full diagram and role responsibilities, see:  
+## Visual Overview
+
+For the full diagram and role responsibilities, see:  
+[DIAGRAM.md](DIAGRAM.md)
+
 ## Philosophy
 
 Modern red teaming requires more than isolated techniques. This framework encourages thinking across layers (network, host, behavioral, and operational security) while maintaining strong OPSEC throughout the engagement lifecycle.
